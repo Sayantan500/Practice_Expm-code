@@ -1,3 +1,4 @@
+//Lambda Demo code
 import java.util.Scanner;
 
 public class LambdaDemo
