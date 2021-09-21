@@ -19,7 +19,7 @@ class swing_gridLayouts implements ActionListener
     int frameWidth , frameHeight;
     JFrame jFrame;
     JButton b1,b2;
-    public swing_gridLayouts(int frameWidth , int frameHeight)
+    public swing_gridLayouts(int frameWidth , int frameHeight) //fixed sized rows and columns
     {
         this.frameWidth = frameWidth;
         this.frameHeight = frameHeight;
